@@ -1,0 +1,6 @@
+print("hello")
+a = 5+4
+b = true
+c+=45
+a & b
+d = "good morning"
